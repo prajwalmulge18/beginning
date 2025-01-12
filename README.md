@@ -1,3 +1,4 @@
 # beginning
 
-logestic re
+logestic regression
+
