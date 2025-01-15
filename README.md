@@ -1,5 +1,5 @@
 # beginning
 
-logestic regressiojn
+logestic regression
 
 
