@@ -1,5 +1,6 @@
 # beginning
 
 logestic regression
+jj
 
 
